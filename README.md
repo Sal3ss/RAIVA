@@ -18,4 +18,4 @@ Tecnologias Utilizadas:
 
 Dificuldades/erros encontrados durante o desenvolvimento do projeto:
 
-Descrição: Não conseguir achar o erro até agora naquela "rindade" de código do não divino, fiz e refiz e até agora nada, depois tenho que falar com meu best JV (Vulgo João Vitor) .
+Descrição: Não conseguir achar o erro até agora naquela "rindade" de código do não divino, fiz e refiz e até agora nada, só faz aparecer a tag "H1" depois tenho que falar com meu best JV (Vulgo João Vitor) .
